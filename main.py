@@ -2,12 +2,6 @@ import urllib
 from urllib import request
 from urllib.parse import quote
 import re
-import os
-import sys
-import requests
-from bs4 import BeautifulSoup as bs
-import pandas as pd
-from tabulate import tabulate
 from random import randint
 import telebot
 import config
